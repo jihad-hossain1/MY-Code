@@ -1,0 +1,2 @@
+when faild to push git commit ? 
+then-> git push origin main --force
